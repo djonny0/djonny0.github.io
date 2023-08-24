@@ -31,7 +31,7 @@
     height: 800px;
 }
 .order-form{
-    height: 500px;
+    min-height: 500px;
 }
 .barner .barner-desc{
     color: white;
@@ -44,7 +44,7 @@
     background-attachment: fixed;
     background-size: cover; /* Optionnel, pour ajuster la taille de l'image */
     background-position: center center; /* Centrage horizontal et vertical */
-    height: 1200px;
+    min-height: 1200px;
 }
 .card-img-top {
   width: 100%;
