@@ -1,0 +1,21 @@
+.block1{
+    display: flex;
+    justify-content: space-around;
+
+}
+.block2{
+    display: flex;
+    justify-content: space-around;
+
+}
+.block3{
+    display: flex;
+    justify-content: space-around;
+
+}
+form{
+    border: 1px solid red;
+    width: 80%;
+    margin: auto;
+    margin-top: 15%;
+}
