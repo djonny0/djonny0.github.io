@@ -48,7 +48,8 @@
 }
 .card-img-top {
   width: 100%;
-  height: 250px; /* Ajustez cette hauteur selon vos besoins */
+  height: 250px; 
+  object-fit: cover;
 }
 
   
